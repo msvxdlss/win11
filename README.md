@@ -1,6 +1,6 @@
 <h1> Установите на флешку оригинальный образ Windows 11 </h1>
 
-1. Оригинальный ISO (microsoft.com/ru-ru/software-download/windows11), или скачайте бекап оригинального образа (drive.google.com/file/d/1oc2qgcvtK3kcdWxYJnXFCmcDYIibS8Lg/view?usp=drive_link).
+1. Оригинальный ISO (microsoft.com/ru-ru/software-download/windows11), или скачайте бекап оригинального образа.
 2. Установите образ на флешку через Руфус (rufus.ie).
 3. Перекиньте autounattend.xml на флешку с записаной Windows 11.
 4. Установите виндовс как вы обычно её устанавливаете.
